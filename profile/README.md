@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+EIL Intercultural Learning (EIL/AFS) is an Irish “not for profit” educational organisation which provides intercultural learning opportunities through study abroad, youth leadership, language training, travel awards, scholarships, group educational programmes, and other cultural immersion opportunities for over 1,000 people each year.
 <!--
 
 **Here are some ideas to get you started:**
